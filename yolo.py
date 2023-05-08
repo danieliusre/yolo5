@@ -10,7 +10,7 @@ TRAIN = True
 REQUIREMENTS_SATISFIED = False
 random_seed = 42
 # Number of epochs to train for.
-EPOCHS = 300
+EPOCHS = 50
 
 
 def download_file(url, save_name):
